@@ -9,6 +9,12 @@
 
 [Github](https://github.com/mattcroat/joy-of-code/tree/main/posts/using-pico-css-with-svelte)
 
+> References
+- [Picocss Documentation](https://picocss.com/docs/)
+- [Picocss Github](https://github.com/picocss/pico)
+- [Picocss Theme Default](https://github.com/picocss/pico/blob/master/css/themes/default.css)
+
+
 # Timestamps
 
 0:00 Intro
